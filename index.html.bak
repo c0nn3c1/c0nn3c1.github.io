@@ -48,7 +48,7 @@
                         <!-- Start Navbar -->
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.html">
-                                <img src=>
+                                <img src="assets/images/logo/white-logo.svg" alt="Logo">
                             </a>
                             <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -71,7 +71,10 @@
                                         <a href="#Hiring" class="page-scroll"
                                             aria-label="Toggle navigation">Hiring</a>
                                     </li>
-                                    
+                                    <li class="nav-item">
+                                        <a href="#team" class="page-scroll"
+                                            aria-label="Toggle navigation">Team</a>
+                                    </li>
                                     
                                         </ul>
                                     
@@ -234,7 +237,13 @@
 	
 	
 
+<!-- Start Team Area -->
+<section id="team" class="team section">
 
+                
+                
+            
+	</section>
     <!-- Start Achievement Area -->
     <section class="our-achievement section">
         <div class="container">
@@ -270,7 +279,7 @@
                         <div class="single-footer f-about">
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src="assets/images/logo/white-logo.svg" alt="#">
+                                    <img src="assets/images/logo/Let's+Connect+Header+White.png" alt="Logo">
                                 </a>
                             </div>
                             <p>Endless Choices, Endless possibilities.</p>
