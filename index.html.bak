@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Appvilla - Creative Landing Page HTML Template.</title>
+    <title>CONNECT</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
@@ -305,25 +305,7 @@
 
     
 
-    <!-- Start Call To Action Area -->
-    <section class="section call-action">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-8 offset-lg-2 col-md-12 col-12">
-                    <div class="cta-content">
-                        <h2 class="wow fadeInUp" data-wow-delay=".2s">You are using free Lite <br>Version of Appvilla
-                        </h2>
-                        <p class="wow fadeInUp" data-wow-delay=".4s">Please, purchase full version of the template to
-                            get all pages, features and commercial license.</p>
-                        <div class="button wow fadeInUp" data-wow-delay=".6s">
-                            <a href="javascript:void(0)" class="btn">Purchase Now</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- End Call To Action Area -->
+   
 
     <!-- Start Footer Area -->
     <footer class="footer">
